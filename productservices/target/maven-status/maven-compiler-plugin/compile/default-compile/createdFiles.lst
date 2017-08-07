@@ -1,0 +1,5 @@
+com\sheeba\product\dto\Product.class
+com\sheeba\product\dao\ProductDAO.class
+com\sheeba\product\bo\ProductBOImpl.class
+com\sheeba\product\bo\ProductBO.class
+com\sheeba\product\dao\ProductDAOImpl.class
